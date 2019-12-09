@@ -1,2 +1,0 @@
-# CustomDarkThemeMail
-custom dark theme
