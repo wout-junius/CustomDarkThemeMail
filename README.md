@@ -2,7 +2,7 @@
 This is a simple dark theme for Mailspring
 
 
-<img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />
+<img src="/screenshot/custom-theme.png" />
 
 
 
